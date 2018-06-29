@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SlidingActivity</string>
+
+    <string name="example4_tip11">这是Activit 1</string>
+    <string name="example4_tip12">点击前往Activity 2</string>
+    <string name="example4_tip21">这是Activit 2,边缘滑动可以返回</string>
+    <string name="example4_tip22">点击前往Activity 3</string>
+    <string name="example4_tip31">这是Activit 3,边缘滑动可以返回</string>
+    <string name="example4_tip32">点击前往Activity 4</string>
+    <string name="example4_tip41">这是Activit 4,边缘滑动可以返回</string>
+
+</resources>
