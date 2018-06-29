@@ -1,0 +1,2 @@
+# SlidingActivity
+一个基于MTransition所做的ActivityUI框架，可以实现滑动退出Activity
