@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SmartFoxWorkToolsProjectState">
-    <option name="branch" value="master" />
+    <option name="branch" value="dev" />
     <option name="gitUrl" value="https://github.com/HJ-Money/SlidingActivity.git" />
-    <option name="localBranch" value="master" />
-    <option name="revision" value="d1eb23bb8d92bbf874349afa18476e3f6cba5935" />
+    <option name="localBranch" value="dev" />
+    <option name="revision" value="dea25ad2537892b20a5186bea57f1aff8ebc62f8" />
   </component>
 </project>
