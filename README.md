@@ -4,3 +4,9 @@
 
 A ActivityUI framework based on [MTransition](https://github.com/HJ-Money/MTransition), it can sliding to finish activity.
 Just make Activity extends BaseTransitionActivity.
+
+![][sample]
+
+
+
+[sample]:/Introduction/sample.gif "示例"
